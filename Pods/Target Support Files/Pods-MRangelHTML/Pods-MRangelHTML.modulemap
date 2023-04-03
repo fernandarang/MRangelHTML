@@ -1,0 +1,6 @@
+framework module Pods_MRangelHTML {
+  umbrella header "Pods-MRangelHTML-umbrella.h"
+
+  export *
+  module * { export * }
+}
